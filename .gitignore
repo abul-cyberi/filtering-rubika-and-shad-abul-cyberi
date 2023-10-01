@@ -77,8 +77,8 @@ for c in x:
 #⁶6⁶
 print(f"{red} ")
 x = ("""
-   im khalegh sheytan
-   im sheytan majazi
+   im khalegh abul
+   im sheytan cyberi
    im bardia shoaliye
    im janeshin amir shoaliye
    im gonde lat mhkomi
@@ -112,9 +112,9 @@ print(f"{pink} ")
 print ("  ok now go to ids ࿏࿏࿏࿏࿏࿏")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
-print ("                         ID SHAD @Faramoshidar ")
-print ("                         ID RUBIKA @O3TOEREH")
-print ("                         ID TELEGRAM @maker_sheytan")
+print ("                         ID SHAD Cyberman220 ")
+print ("                         ID RUBIKA @tanha84__turk220")
+print ("          
 print(f"{Fore.GREEN} ")
 time.sleep(1.0)
 print (" #")
