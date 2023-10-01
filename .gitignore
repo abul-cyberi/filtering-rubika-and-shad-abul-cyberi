@@ -277,15 +277,10 @@ print (Fore.WHITE + " ")
 time.sleep(1.8)
 print (f"""
 {green}
- made by 2 ostoreh faramosh shode
+  
+ user shad @Cyberman220
  
- veblag : http://sheytan-majazi.blogfa.com
- 
- user tel khalegh sheytan @maker_sheytan
- 
- user shad khalegh sheytan @faramoahidar
- 
- user rubika khalegh sheytan @o3toereh
+ user rubika  @tanha84__turk220
  """)
 time.sleep(1.8)
 x = (f""" {pink}
