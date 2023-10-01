@@ -48,7 +48,7 @@ x = str(datetime.datetime.now())
 print("started " + (x))
 
 print(f"{blue} ")
-x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                                   king hack abul cyber turk 
+x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                                   king hack abul Cyberi turk
                           _cyqyc_
                       :>3qKKKKKKKq3>:
                   ';CpKKKKKKKKKKKKKKKpC;'
@@ -99,6 +99,9 @@ x = ("""
    im pedar bozorg nashenas 
    im leader nashenas
    im dep nashenas
+   
+  
+  """)
 for x in c:
         sys.stdout.write(x)
         sys.stdout.flush()
@@ -109,7 +112,7 @@ print(f"{pink} ")
 print ("  ok now go to ids ࿏࿏࿏࿏࿏࿏")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
-print ("                         ID SHAD Cyberman220 ")
+print ("                         ID SHAD @Cyberman220 ")
 print ("                         ID RUBIKA @tanha84__turk220")
 print(f"{Fore.GREEN} ")
 time.sleep(1.0)
