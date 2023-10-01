@@ -114,7 +114,6 @@ print (Fore.YELLOW + "")
 time.sleep(1.7)
 print ("                         ID SHAD Cyberman220 ")
 print ("                         ID RUBIKA @tanha84__turk220")
-print ("          
 print(f"{Fore.GREEN} ")
 time.sleep(1.0)
 print (" #")
