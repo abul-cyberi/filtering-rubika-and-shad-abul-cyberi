@@ -99,9 +99,6 @@ x = ("""
    im pedar bozorg nashenas 
    im leader nashenas
    im dep nashenas
-   
-  
-  """)
 for x in c:
         sys.stdout.write(x)
         sys.stdout.flush()
