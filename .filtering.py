@@ -48,7 +48,7 @@ x = str(datetime.datetime.now())
 print("started " + (x))
 
 print(f"{blue} ")
-x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                                   king hack abul Cyberi turk
+x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                                                      king hack abul Cyberi turk
                           _cyqyc_
                       :>3qKKKKKKKq3>:
                   ';CpKKKKKKKKKKKKKKKpC;'
@@ -57,8 +57,8 @@ x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                      
        ,rwKKKKKKKKKKKKKPv;,:'-':,;vPKKKKKKKKKKKKKwr,
       !KKKKKKKKKKKKKKK/             !KKKKKKKKKKKKKKK!
       !KKKKKKKKKKKKKKf               CKKKKKKKKKKKKKK!
-      !KKKKKKKKKKKKKp-               -qKKKKKKKKKKKKK!
-      !KKKKKKKKKKKKK>"               "\KKKKKKKKKKKKK!
+      !KKKKKKKKKKKKKp-    A B U L    -qKKKKKKKKKKKKK!
+      !KKKKKKKKKKKKK>"  C Y B E R I  "\KKKKKKKKKKKKK!
       !KKKKKKKw;,_'-                   .-:,"wKKKKKKK!
       !KKKKKKKKhi*;"                   ";*ihKKKKKKKK!
       !KKKKKKKKKKKKK;                 ;KKKKKKKKKKKKK!
@@ -113,7 +113,7 @@ print ("  ok now go to ids ࿏࿏࿏࿏࿏࿏")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
 print ("                         ID SHAD @Cyberman220 ")
-print ("                         ID RUBIKA @tanha84__turk220")
+print ("                         ID RUBIKA ------")
 print(f"{Fore.GREEN} ")
 time.sleep(1.0)
 print (" #")
@@ -167,7 +167,7 @@ up = input (Fore.CYAN+f""" -----------------------------------------------------
  | 10 </> viros code              20 </> mokharab sangin |   
  |               [>Enter The Number<]                    |
  ---------------------------------------------------------
-    | IM KHALEGH SHEYTAN or DEP NASHENAS or BARDIA|
+    | IM KABUL CYBERI FILTERING RUBIKA             |
     -----------------------------------------------
           | $ put the number  >>>>>>""")
 for c in x:
@@ -177,12 +177,12 @@ for c in x:
 
 
 if up == "1":
- print (' code kamel acc rubika ≠>' + '%s%s (https://ter.af-ter.af.ter(https://s4.uupload.ir/files/i1.40.xnxx.com.30.905)https://github.com/termux/termux-appnstallatio/wiki.termux.com/w((6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4))/Backin http://github.com/termux/termux-app/releashttps://github.com/termuterm.BS.1111.CD.Filtering-Rubika.1/1/1/1.yff01k)(xnxx.com)(/6.9.3.8/f//d/1.4.8.2.8.9.5.1.3.2.1.1.4.4.4.6/)robika.https://s6.uupload.ir/files/_o6s4.jpeg.fyll.www.xxnx) %s' % (fg('red'), bg('yellow'), attr('reset')))
+ print (' code kamel acc rubika ≠>' + '%s%s (https://ter.af-ter.af.ter(https://user-images.githubusercontent.com/146645541/272511711-580e9e7f-e26d-45f4-8532-3f52e1b9ffc8.png)https://github.com/termux/termux-appnstallatio/wiki.termux.com/w((6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4))/Backin http://github.com/termux/termux-app/releashttps://github.com/termuterm.BS.1111.CD.Filtering-Rubika.1/1/1/1.yff01k)(xnxx.com)(/6.9.3.8/f//d/1.4.8.2.8.9.5.1.3.2.1.1.4.4.4.6/)robika.https://s6.uupload.ir/files/_o6s4.jpeg.fyll.www.xxnx) %s' % (fg('red'), bg('yellow'), attr('reset')))
  
 
 
 if up == "2":
-         print (' code kamel acc shad ≠>' + '%s%s (ravesh fil acc shad -> aval mitrid pv   fard va fosh midid vaghti onam dad shoma fosh khodeton ro pack   mikonid va ye screen shat migirid va be id fata shad id fata    ➣@FataReport va bad az dadan gozaresh mirid code >https://s2.uupload.ir/files/1_rdq.png.https://tinyurl.com/uppdatesnew.of.sexchat.with.users.causng.disturbance.to.others.will.be/filtered.Filter.Shad.in_/(http://dxprit-dayson-payambar-noob-hack-infect.phpnet.us/dxprit.html< ro 20 bar dayer va 50 mostahjan      mizanid va acc podr mishe) %s' % (fg('red'), bg('yellow'), attr('reset')))
+         print (' code kamel acc shad ≠>' + '%s%s (ravesh fil acc shad -> aval mitrid pv   fard va fosh midid vaghti onam dad shoma fosh khodeton ro pack   mikonid va ye screen shat migirid va be id fata shad id fata    ➣@FataReport va bad az dadan gozaresh mirid code >https://user-images.githubusercontent.com/146645541/272511633-2640354b-43a8-43f7-ab03-36826301e9af.pngad.in_/(http://dxprit-dayson-payambar-noob-hack-infect.phpnet.us/dxprit.html< ro 20 bar dayer va 50 mostahjan      mizanid va acc podr mishe) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up == "3":
@@ -210,7 +210,7 @@ if up == "8":
 	print (' mokharab≈>' + '%s%s (https://cigarettes-chemical-rid-numeric.trycloudflare.com  ~  https://bit.li/3ild93L/php-hack  ~  https://bit.li/3ild93L  ~  https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt  ~  https://bit.ly/3fX8ljZ/fil.rubika  ~  http://ffmodmenu.page.link/Anti-V  ~  http://vxvault.net/URL_List.php  ~  https://v.3.0.9.yftt18k.in.xxx.com  ~  http://fil.sex.com/Distribution.immoral.content.com  ~  http://naturerleben-xhain.berlin/kieznaturkarte  ~  https://book.hacktricks.xyz  ~  http://zqktlwi4fecvo6ri.onion/wiki/index.php  ~  https://crash-bandicoot.info/enfejar/gambling-site  ~  https://dl.uploadgram.me/60bdffd3a2be4h  ~  https://cigarettes-chemical-rid-numeric.trycloudflare.com) %s' % (fg('red'),bg('yellow'),attr('reset')))
 	
 if up == "9":
-	print(' link daeshi≠>' + '%s%s (https://s6.uupload.ir/files/750242_178_lelj.jpg) %s' % (fg('red'),bg('yellow'),attr('reset')))
+	print(' link daeshi≠>' + '%s%s (https://user-images.githubusercontent.com/146645541/272511634-fc4c2960-d283-4a92-a64e-283de33745ea.jpg) %s' % (fg('red'),bg('yellow'),attr('reset')))
 	
 if up == "10":
 	print(' virus code≠>' + '%s%s (http://txt//1-2-3-4.V-iruss.kabir/sheytan.bog.text.Account.rubika  ~  http://ffmodmenu.page.link/Anti-V  ~  http://54flq67kqr5wvjqf.onion/python ) %s' % (fg('red'),bg('yellow'),attr('reset')))
@@ -219,7 +219,7 @@ if up == "11":
 	print('server≠>' + '%s%s (v.3.1.1.yftt15k.in  ~  /yftt16k  ~  /yftt15k  ~  /yftt16k  ~  /yftt15k  ~  /yftt16k  ~  /yftt15k  ~  /yftt_08  ~  /yftt_18  ~  /yftt_08  ~  /yftt_18  ~  /yftt_08  ~  /yftt_18  ~  /yttk  ~  filter.rubika  ~  gif.sxs.com  ~  /yttk-18963  ~  yttk-26357) %s' % (fg('red'),bg('yellow'),attr('reset')))
 
 if up == "12":
-	print('video porn hub≠>' + '%s%s (https://www.pornhub.com/view_video.php?viewkey=ph62541e245952b  ~  https://www.pornhub.com/view_video.php?viewkey=ph62541e492c3a7  ~  https://www.pornhub.com/interstitial?viewkey=ph6203e4bf1b1d9) %s' % (fg('red'),bg('yellow'),attr('reset')))
+	print('video porn hub≠>' + '%s%s (https://user-images.githubusercontent.com/146645541/272511633-2640354b-43a8-43f7-ab03-36826301e9af.png  ~  http://dxprit-dayson-payambar-noob-hack-infect.phpnet.us/dxprit.html  ~  https://www.pornhub.com/interstitial?viewkey=ph6203e4bf1b1d9) %s' % (fg('red'),bg('yellow'),attr('reset')))
 
 if up == "13":
 	print('lag≠>' + '%s%s (https://jizzbunker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=fa&_x_tr_pto=sc  ~  http://xa.fltvuq.cn/?account.Code=10749999999172-Shervi.Gazme.zan-hackers65.78766.infect.in.29*offs.ec/2Mcezwr) %s' % (fg('red'),bg('yellow'),attr('reset')))
@@ -279,7 +279,7 @@ print (f"""
   
  user shad @Cyberman220
  
- user rubika  @tanha84__turk220
+ user rubika  -------
  """)
 time.sleep(1.8)
 x = (f""" {pink}
