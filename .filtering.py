@@ -167,7 +167,7 @@ up = input (Fore.CYAN+f""" -----------------------------------------------------
  | 10 </> viros code              20 </> mokharab sangin |   
  |               [>Enter The Number<]                    |
  ---------------------------------------------------------
-    | IM KABUL CYBERI FILTERING RUBIKA             |
+    | IM ABUL CYBERI FILTERING RUBIKA             |
     -----------------------------------------------
           | $ put the number  >>>>>>""")
 for c in x:
