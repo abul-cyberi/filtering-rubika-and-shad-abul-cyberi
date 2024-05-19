@@ -60,7 +60,7 @@ x = (Fore.CYAN+f"""                   THE SCRIPT FILTERING                      
       !KKKKKKKKKKKKKp-    A B U L    -qKKKKKKKKKKKKK!
       !KKKKKKKKKKKKK>"  C Y B E R I  "\KKKKKKKKKKKKK!
       !KKKKKKKw;,_'-                   .-:,"wKKKKKKK!
-      !KKKKKKKKhi*;"                   ";*ihKKKKKKKK!
+      !KKKKKKKKhi*;"     اره داش خودشم    ";*ihKKKKKKKK!
       !KKKKKKKKKKKKK;                 ;KKKKKKKKKKKKK!
       !KKKKKKKKKKKKK2>'             '>2KKKKKKKKKKKKK!
       !KKKKKKKKKKKKKKKZ             ZKKKKKKKKKKKKKKK!
